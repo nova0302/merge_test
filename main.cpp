@@ -3,7 +3,7 @@
 using namespace std;
 
 
-const int N = 16;
+const int N = 32;
 
 int main(int argc, char *argv[])
 {
