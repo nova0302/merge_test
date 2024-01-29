@@ -2,8 +2,17 @@
 
 using namespace std;
 
+class ISubject
+{
+public:
+  ISubject();
+  virtual ~ISubject();
+};
+
+
 
 const int N = 32;
+
 
 int main(int argc, char *argv[])
 {
