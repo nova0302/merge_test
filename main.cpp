@@ -4,7 +4,7 @@
 using namespace std;
 
 
-const int N = 32;
+const int N = 4;
 
 int main(int argc, char *argv[])
 {
